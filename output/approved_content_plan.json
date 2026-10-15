@@ -1,0 +1,58 @@
+{
+  "slide1": {
+    "title": "Executive Business Review Q2 2026",
+    "subtitle": "Performance overview, regional results, and operational risk assessment",
+    "kpi1_value": "$1.28B",
+    "kpi1_label": "Total Revenue",
+    "kpi2_value": "+4.5%",
+    "kpi2_label": "QoQ Growth",
+    "kpi3_value": "49.8",
+    "kpi3_label": "Average NPS",
+    "summary": "NovaRetail delivered total revenue of $1.28B with +4.5% QoQ growth in 2026-Q2. APAC leads regional growth at +8.2%, while Latin America remains the primary operational concern with declining revenue and severe logistics constraints.",
+    "icon": "globe_region.png"
+  },
+  "slide2": {
+    "title": "Regional Revenue Growth and Performance Divergence",
+    "insights": [
+      "APAC leads regional growth at 8.2% with 330M revenue.",
+      "North America is the largest contributor with 465M revenue.",
+      "Europe achieved 4.5% growth generating 345M in revenue.",
+      "Latin America declined by 6.7% with 140M revenue."
+    ],
+    "chart": "performance_chart.png",
+    "icon": "growth_chart.png"
+  },
+  "slide3": {
+    "title": "Customer Experience Varies Widely Across Regions",
+    "insights": [
+      "APAC leads customer experience with an NPS of 62 and 92% CSAT.",
+      "North America maintains solid metrics with an NPS of 55 and 89% CSAT.",
+      "Europe reports stable customer satisfaction with an NPS of 53 and 88% CSAT.",
+      "Latin America lags severely with an NPS of 29 and 74% CSAT."
+    ],
+    "chart": "customer_chart.png",
+    "icon": "customer_star.png"
+  },
+  "slide4": {
+    "title": "Operational Risks Concentrated in Latin America",
+    "insights": [
+      "Latin America exhibits a 12.5% stockout rate and 10 return processing days.",
+      "Latin America recorded 30 fraud incidents, significantly above other regions.",
+      "APAC shows high warehouse capacity utilization at 92% with 8.5% stockouts.",
+      "North America and Europe maintain stable warehouse and fulfillment metrics."
+    ],
+    "chart": "risk_chart.png",
+    "icon": "risk_alert.png"
+  },
+  "slide5": {
+    "title": "Recommended Actions & Next Steps",
+    "recommendations": [
+      "Investigate fulfillment bottlenecks in Latin America to address delivery delays.",
+      "Enhance fraud prevention controls across Latin American logistics operations.",
+      "Optimize inventory management in APAC to relieve high warehouse utilization.",
+      "Scale successful customer experience strategies from APAC to underperforming regions."
+    ],
+    "closing": "Prioritize operational stabilization in Latin America while scaling APAC growth momentum.",
+    "icon": "lightbulb_action.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model_version": "gemini-3.6-flash",
+  "content": {
+    "parts": [
+      {
+        "text": "{\n  \"slide1\": {\n    \"title\": \"NovaRetail Q2 2026 Executive Performance Review\",\n    \"subtitle\": \"Quarterly Business Review for Senior Leadership\",\n    \"kpi1_value\": \"$1.28B\",\n    \"kpi1_label\": \"Total Revenue\",\n    \"kpi2_value\": \"+4.5%\",\n    \"kpi2_label\": \"QoQ Growth\",\n    \"kpi3_value\": \"49.8\",\n    \"kpi3_label\": \"Average NPS\",\n    \"summary\": \"NovaRetail delivered $1.28B in revenue with 4.5% QoQ growth in Q2 2026. APAC drove top-line acceleration with 8.2% revenue growth and industry-leading customer satisfaction. However, severe fulfillment bottlenecks, high return rates, and stockouts in Latin America created significant operational headwinds and reduced overall profitability.\",\n    \"icon\": \"globe_region.png\"\n  },\n  \"slide2\": {\n    \"title\": \"APAC Expansion Drives Growth While Latin America Revenues Decline\",\n    \"insights\": [\n      \"APAC achieved the highest growth rate at 8.2% QoQ, generating $330M in Q2 revenue.\",\n      \"North America remains the primary revenue driver, contributing $465M with 5.7% QoQ revenue growth.\",\n      \"Europe delivered steady expansion, producing $345M in revenue with 4.5% QoQ growth.\",\n      \"Latin America underperformed all regions, contracting 6.7% QoQ to $140M in revenue.\"\n    ],\n    \"chart\": \"performance_chart.png\",\n    \"icon\": \"growth_chart.png\"\n  },\n  \"slide3\": {\n    \"title\": \"APAC Leads Customer Satisfaction As Latin America Logistics Lag\",\n    \"insights\": [\n      \"APAC achieved the highest customer satisfaction, recording an NPS of 62 and 92% CSAT.\",\n      \"North America maintained strong performance, logging a 55 NPS and average delivery time of 2.9 days.\",\n      \"Europe delivered stable customer metrics, registering a 53 NPS and 88% CSAT score.\",\n      \"Latin America recorded severe operational drag, with 7.5-day delivery averages and a low 29 NPS.\"\n    ],\n    \"chart\": \"customer_chart.png\",\n    \"icon\": \"customer_star.png\"\n  },\n  \"slide4\": {\n    \"title\": \"Latin America Stockouts and APAC Capacity Constraints Heighten Risk\",\n    \"insights\": [\n      \"Latin America represents the highest operational risk, with a 12.5% stockout rate and 30 fraud incidents.\",\n      \"Latin America return processing averaged 10 days alongside an elevated return rate of 8.2%.\",\n      \"APAC warehouse capacity utilization reached 92%, signaling potential bottlenecks despite an 8.5% stockout rate.\",\n      \"North America and Europe maintained controlled operational risk profiles, with stockout rates under 4.1%.\"\n    ],\n    \"chart\": \"risk_chart.png\",\n    \"icon\": \"risk_alert.png\"\n  },\n  \"slide5\": {\n    \"title\": \"Recommended Actions & Next Steps\",\n    \"recommendations\": [\n      \"Overhaul Latin America supply chain logistics to reduce stockouts and delivery delays.\",\n      \"Expand APAC warehouse capacity to support rapid growth and prevent operational bottlenecks.\",\n      \"Implement automated fraud detection and return processing workflows in Latin America.\",\n      \"Scale successful APAC customer engagement practices across European and North American markets.\"\n    ],\n    \"closing\": \"Prioritize Latin America operational recovery while scaling APAC warehouse capacity for sustainable growth.\",\n    \"icon\": \"lightbulb_action.png\"\n  }\n}"
+      }
+    ],
+    "role": "model"
+  },
+  "finish_reason": "STOP",
+  "usage_metadata": {
+    "candidates_token_count": 850,
+    "prompt_token_count": 2951,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 2951
+      }
+    ],
+    "thoughts_token_count": 5344,
+    "total_token_count": 9145
+  }
+}
